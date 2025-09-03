@@ -1,2 +1,1 @@
 hey i am here to learn git and github
-I'm learning git with kit
